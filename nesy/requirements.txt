@@ -65,7 +65,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 pycddlib==2.1.6
 pycparser==2.21
-Pygments==2.13.0
+Pygments==2.7.4
 pygraphviz==1.10
 pyparsing==3.0.9
 pyrsistent==0.19.2
