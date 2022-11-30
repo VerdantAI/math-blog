@@ -30,3 +30,7 @@ This is true only if X, Y are `a`.  F(n) cool.
 ## Text Game
 
 From [this site](https://amzi.com/AdventureInProlog/index.php), shows off some nice features.
+
+## Web Server
+
+This is a pretty [good tutorial](https://github.com/Anniepoo/swiplwebtut/blob/master/web.adoc)
