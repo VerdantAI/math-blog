@@ -36,22 +36,22 @@ where_food(X, Y) :-
 list_things(Place) :-
     location(X, Place),
     tab(2),
-    write(X),
-    nl,
+    write(X), nl,
     fail.
+list_things(_). 
 
 list_connections(Place) :-
     connect(Place, X),
     tab(2),
-    write(X),
-    nl,
+    write(X), nl,
     fail.
+list_connections(_).
 
 look :-
     here(Place),
     write('You are in the '), write(Place), nl,
     write("You can go to: "), nl,
-    list_connections(Place),
+    list_connections(Place), nl,
     write('You can see: '), nl,
     list_things(Place).
 
