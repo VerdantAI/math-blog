@@ -16,7 +16,7 @@ conan==1.25.1
 conan-clang-update==0.3.0
 configobj==5.0.6
 constantly==15.1.0
-cryptography==2.6.1
+cryptography==39.0.1
 cupshelpers==1.0
 dbus-python==1.2.12
 decorator==4.4.2
